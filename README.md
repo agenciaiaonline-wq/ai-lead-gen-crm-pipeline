@@ -1,6 +1,6 @@
 # AI Lead Generation & SQLite CRM Pipeline (RSS Collector + ICP Scorer)
 
-[![CI](https://img.shields.io/badge/CI-unittest-10b981?style=flat-square)](.github/workflows/ci.yml)
+[![AI Lead Gen CRM CI](https://github.com/agenciaiaonline-wq/ai-lead-gen-crm-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/agenciaiaonline-wq/ai-lead-gen-crm-pipeline/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](src/cli.py)
 [![SQLite](https://img.shields.io/badge/CRM-SQLite_WAL-003B57?style=flat-square&logo=sqlite&logoColor=white)](src/crm_store.py)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
