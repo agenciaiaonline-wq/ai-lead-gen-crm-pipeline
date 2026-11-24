@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Example B2B AI &amp; SaaS Opportunities Feed</title>
+    <item>
+      <title>Build 24/7 WhatsApp AI Agent + n8n CRM Automation</title>
+      <link>https://jobs.example.com/opportunities/1001</link>
+      <description>Looking for a turnkey n8n + WhatsApp workflow and PostgreSQL CRM integration. Budget $6,000 plus monthly retainer.</description>
+      <pubDate>Mon, 24 Nov 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next.js Supabase Multi-Tenant SaaS MVP Launch</title>
+      <link>https://jobs.example.com/opportunities/1002</link>
+      <description>Need strict Supabase RLS, Stripe billing, and dashboard MVP shipped urgently in 2 weeks. Budget $8,500.</description>
+      <pubDate>Mon, 24 Nov 2026 10:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress Blog Theme Tweaks</title>
+      <link>https://jobs.example.com/opportunities/1003</link>
+      <description>Minor CSS padding change on personal travel blog.</description>
+      <pubDate>Mon, 24 Nov 2026 11:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
